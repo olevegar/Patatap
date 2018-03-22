@@ -1,7 +1,8 @@
-# Patatap
-Tap keyboard for sounds
+Neuronal Synchrony
+==================
 
-Just tap the keyboard for sounds and animations. Simple coding experiment and is a clone from patatap.com which i made for fun.
+A collection of two dimensional animations that are triggered by sound.
 
-project includes code from paper.js (animations) and howler.js(sounds)
+(c) 2012 - 2013 [jonobr1](http://jonobr1.com/). Freely distributed under the [MIT License](http://opensource.org/licenses/MIT).
 
+Prototyped with [Processing](http://processing.org/), built with [JavaScript](http://jonobr1.github.com/two.js).
